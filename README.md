@@ -1,4 +1,4 @@
-# Lead Scoring Assignment for Upgrad
+# Lead Scoring Assignment for X Education
 ## Problem Statement
 This case study is for an education company named X Education which sells online courses. An interested customer will fill an online form on their webstie and then they can be called as a lead. There are also leads from their past referrals. The sales team starts contacting them using various mediums. The problem now is that the conversion rate is only 30%. To solve this issue, the company wishes to identify only the most potential lead so that they focus their time more in communicating with them, than others.
 ## Objective
