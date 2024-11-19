@@ -1,9 +1,27 @@
-# LeadScoring
-Lead Scoring Assignment for Upgrad
-Problem Statement
-An education company named X Education sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website and browse for courses. 
-The company markets its courses on several websites and search engines like Google. Once these people land on the website, they might browse the courses or fill up a form for the course or watch some videos. When these people fill up a form providing their email address or phone number, they are classified to be a lead. Moreover, the company also gets leads through past referrals. Once these leads are acquired, employees from the sales team start making calls, writing emails, etc. Through this process, some of the leads get converted while most do not. The typical lead conversion rate at X education is around 30%. 
-Now, although X Education gets a lot of leads, its lead conversion rate is very poor. For example, if, say, they acquire 100 leads in a day, only about 30 of them are converted. To make this process more efficient, the company wishes to identify the most potential leads, also known as ‘Hot Leads’. If they successfully identify this set of leads, the lead conversion rate should go up as the sales team will now be focusing more on communicating with the potential leads rather than making calls to everyone.
+# Lead Scoring Assignment for Upgrad
+## Problem Statement
+This case study is for an education company named X Education which sells online courses. An interested customer will fill an online form on their webstie and then they can be called as a lead. There are also leads from their past referrals. The sales team starts contacting them using various mediums. The problem now is that the conversion rate is only 30%. To solve this issue, the company wishes to identify only the most potential lead so that they focus their time more in communicating with them, than others.
+## Objective
+The objective is to create a logistic regression model to assign scores to each of the leads which can be used to target potential customers. the higher the lead, most likely the conversion.
+## The Method
+We followed the following steps
+- Reading and understanding the data
+- Working on the data
+- Analyzing the data
+- Create dummy variables
+- Drop repeated variables
+- Perform Test-Train split
+- Check for Correlation
+- Build a Model
+- Assess the Model using StatsModels
+- Create Dataframe with actual and predicted
+- Check overall accuracy
+- Check VIFs and drop variables
+- Plotting ROC Curve
+- Use Precision and Recall
+- Using the prediction on Test set
+- Checking the accuracy, sensitivity and specificity
+
 
 
 
